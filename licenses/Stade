@@ -1,0 +1,4 @@
+from turtle import*
+x,y=position
+goto(-200,300)
+pencolor("green")
